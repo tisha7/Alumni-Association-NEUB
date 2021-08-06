@@ -1,0 +1,89 @@
+*{
+	margin: 0;
+	padding: 0;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+	font-family: Verdana, Geneva, sans-serif;
+}
+body{
+	background: url("../img/login3.jpg");
+	background-size: cover;
+}
+.main{
+	width: 500px;
+	background-color: #fff;
+	margin: 60px auto;
+	padding: 10px;
+	box-shadow: 2px 3px 9px #00d4d9;
+	border-radius: 3px;
+}
+header{
+	text-align: center;
+	color: #2f508a;
+}
+.success{
+	font-size: 25px;
+	color: #c44;
+	padding: 10px;
+}
+form{
+	padding: 10px;
+}
+.inp{
+	width: 100%;
+	padding: 12px;
+	margin-bottom: 5px;
+	font-size: 16px;
+	border: 1px solid #0364ac;
+
+}
+.inp:focus{
+	outline: none;
+	border-color:green;
+}
+.sub-btn{
+	width: 100%;
+	padding: 10px;
+	border: none;
+	font-size: 20px;
+	background-color: #00d4d9;
+	color: #fff;
+	margin-top: 8px;
+	cursor: pointer;
+
+}
+.sub-btn:hover{
+  background-color:  #028187 ;
+}
+.sub-btn:focus{
+	outline: none;
+	background-color: #c00;
+}
+.content{
+	width: 75%;
+	background-color: #fff;
+	margin: 0 auto;
+	text-align: center;
+}
+.img_size{
+	width: 500px;
+}
+.wel_head{
+	font-size: 25px;
+	font-weight: bold;
+	padding: 20px;
+}
+.log_out{
+	text-decoration: none;
+	display: block;
+	padding: 10px;
+	font-size: 20px;
+	background-color: #566;
+	width: 100px;
+	color: #fff;
+}
+img{
+	height:220px; 
+	width:295px;
+}

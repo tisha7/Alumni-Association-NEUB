@@ -1,0 +1,23 @@
+div.committee{
+ margin: 5px;
+ border: 1px solid #ccc;
+ float: left;
+ width: 320px;
+ height: 470px;
+ padding: 10px 10px;
+}
+
+div.committee:hover {
+ border: 1px solid #777;
+}
+
+div.committee img {
+ width: 100%;
+ height: 70%;
+ padding: 20px;
+}
+
+div.sc {
+ padding: 2px;
+ text-align: center;
+}

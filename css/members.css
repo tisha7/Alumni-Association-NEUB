@@ -1,0 +1,23 @@
+div.members{
+ margin: 5px;
+ border: 1px solid #ccc;
+ float: left;
+ width: 170px;
+ height: 230px;
+ padding: 2px 2px;
+}
+
+div.members:hover {
+ border: 1px solid #777;
+}
+
+div.members img {
+ width: 100%;
+ height: 60%;
+ padding: 8px;
+}
+
+div.scc {
+ padding: 0px;
+ text-align: center;
+}
