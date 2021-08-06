@@ -1,0 +1,47 @@
+.about-ban{
+  background: url("../img/about.jpg");
+}
+.about-ban-text{
+  color:#fff;
+  text-align: center;
+  padding: 200px;
+  color: #fff;
+  font-weight:600;
+  font-size: 40px;
+  font-radius:40px;
+}
+.about{
+  margin: 15px;
+  background-color: #e1e4e4;
+  padding: 60px 180px;
+  font-size: 18px;
+}
+
+.about-row {
+  display: -ms-flexbox; /* IE10 */
+  display: flex;
+  -ms-flex-wrap: wrap; /* IE10 */
+  flex-wrap: wrap;
+}
+
+.about-side {
+  -ms-flex: 50%; /* IE10 */
+  flex: 50%;
+  background-color: #f1f1f1;
+  padding: 20px;
+}
+
+/* Main column */
+.about-main {
+  -ms-flex: 50%; /* IE10 */
+  flex: 50%;
+  background-color: white;
+  padding: 20px;
+  box-shadow: 2px 9px 14px rgba(0, 0, 0, 0.5);
+}
+
+/* Fake image, just for this example */
+.about-fakeimg {
+  background-color: #fff;
+  padding: 20px;
+}
